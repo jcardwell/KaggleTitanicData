@@ -1,0 +1,61 @@
+Which actor would you like to search for?
+Kevin Bacon
+Kevin Bacon's Bacon Number is: 0. 
+Which actor would you like to search for?
+Reese Witherspoon
+Reese Witherspoon appeared in Man in the Moon, The (1991) with Tess Harper.
+Tess Harper appeared in Criminal Law (1988) with Kevin Bacon.
+Reese Witherspoon's Bacon Number is: 2. 
+Which actor would you like to search for?
+Peewee Reese
+Actor is not in the database. Please try again!
+Which actor would you like to search for?
+Peewee Wilson
+No connection found
+Peewee Wilson's Bacon Number is: infinity.
+ 
+Which actor would you like to search for?
+Owen Wilson
+Owen Wilson appeared in Zoolander (2001) with Ben Stiller.
+Ben Stiller appeared in Zero Effect (1998) with Kim Dickens.
+Kim Dickens appeared in Hollow Man (2000) with Kevin Bacon.
+Owen Wilson's Bacon Number is: 3. 
+Which actor would you like to search for?
+Tom Hanks
+Tom Hanks appeared in Apollo 13 (1995) with Kevin Bacon.
+Tom Hanks's Bacon Number is: 1. 
+Which actor would you like to search for?
+Vince Vaughn
+Vince Vaughn appeared in South of Heaven, West of Hell (2000) with Bridget Fonda.
+Bridget Fonda appeared in Balto (1995) with Kevin Bacon.
+Vince Vaughn's Bacon Number is: 2. 
+Which actor would you like to search for?
+Justin Timberlake
+Actor is not in the database. Please try again!
+Which actor would you like to search for?
+Val Kilmer
+Val Kilmer appeared in Wings of Courage (1995) with Elizabeth McGovern.
+Elizabeth McGovern appeared in She's Having a Baby (1988) with Kevin Bacon.
+Val Kilmer's Bacon Number is: 2. 
+Which actor would you like to search for?
+Ice Cube
+Ice Cube appeared in Boyz N the Hood (1991) with Laurence Fishburne.
+Laurence Fishburne appeared in Mystic River (2003) with Kevin Bacon.
+Ice Cube's Bacon Number is: 2. 
+Which actor would you like to search for?
+Quentin Tarantino
+Quentin Tarantino appeared in Destiny Turns on the Radio (1995) with James LeGros.
+James LeGros appeared in Drugstore Cowboy (1989) with Matt Dillon.
+Matt Dillon appeared in Wild Things (1998) with Kevin Bacon.
+Quentin Tarantino's Bacon Number is: 3. 
+Which actor would you like to search for?
+John Travolta
+John Travolta appeared in Blow Out (1981) with John Lithgow.
+John Lithgow appeared in Footloose (1984) with Kevin Bacon.
+John Travolta's Bacon Number is: 2. 
+Which actor would you like to search for?
+
+Actor is not in the database. Please try again!
+Which actor would you like to search for?
+exit
+Program Terminated!

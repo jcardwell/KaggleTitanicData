@@ -1,0 +1,1 @@
+Vertices: [actor4, actor3, actor2, actor1, actor5, actor6, Kevin Bacon]Out edges: {actor4={actor3=movie4}, actor3={actor4=movie4, actor2=movie3, actor1=movie2}, actor2={actor3=movie3, actor1=movie1, Kevin Bacon=movie1}, actor1={actor3=movie2, actor2=movie1, Kevin Bacon=movie1}, actor5={actor6=movie5}, actor6={actor5=movie5}, Kevin Bacon={actor2=movie1, actor1=movie1}}
